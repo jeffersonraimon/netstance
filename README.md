@@ -1,2 +1,2 @@
-# netstance
+# Netstance
 Create network maps easily
